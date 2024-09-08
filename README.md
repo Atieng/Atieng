@@ -5,7 +5,8 @@ Hi 👋 My name is Ivy Atieng
 
 Data Scientist
 
-* 🌍  I'm based in Nyeri, Kenya
+
+* 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [atiengivylisa@gmail.com](mailto:atiengivylisa@gmail.com)
 * 🧠  I'm learning FastApi and Flask
 * 🤝  I'm open to collaborating on Image classification projects and NLP projects
