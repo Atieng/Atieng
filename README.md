@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/83b3ba37-ef7e-4361-a695-3bd09c3fa3e5)
-
 Hi 👋 My name is Ivy Atieng
 ===========================
 
